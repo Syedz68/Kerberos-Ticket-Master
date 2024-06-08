@@ -1,6 +1,6 @@
 # Kerberos Ticket Master
 
-Kerberos Ticket Master is a simple implementation of the Kerberos protocol using Python for secure authentication in a distributed network environment. This project demonstrates the interaction between an Authentication Server (AS), a Ticket Granting Server (TGS), and a Service Server (SS) to provide secure authentication and authorization for users accessing network services.
+Kerberos Ticket Master is a simple implementation of the Kerberos protocol using Python for secure authentication in a distributed network environment. This project demonstrates the interaction between an Authentication Server (AS), a Ticket Granting Server (TGS), and a Service Server (SS) to provide secure authentication and authorization for users accessing network services. The project leverages cryptographic techniques and socket programming to ensure secure communication and data integrity.
 
 ## Features
 
