@@ -23,3 +23,5 @@ Kerberos Ticket Master is a simple implementation of the Kerberos protocol using
 
 ## Images of The Project
 
+![k1](https://github.com/Syedz68/Kerberos-Ticket-Master/assets/107263740/2b6e2441-0cfc-4db2-8069-0d7682045993)
+![k2](https://github.com/Syedz68/Kerberos-Ticket-Master/assets/107263740/22208241-de21-4087-923b-0aa2748590b1)
